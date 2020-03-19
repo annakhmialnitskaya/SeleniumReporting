@@ -1,0 +1,53 @@
+18:28:15:197 INFO  MyLogger.info - Going to URL: https://jqueryui.com
+18:28:19:643 INFO  MyLogger.info - Clicking element 'Droppable' (Located: By.cssSelector: a[href$='droppable/'])
+18:28:21:032 INFO  MyLogger.info - Saved screenshot: screenshots/scr76927133906900
+18:28:28:892 INFO  MyLogger.info - Saved screenshot: screenshots/scr76935011483500
+18:28:29:091 INFO  MyLogger.info - Dragging element 'Drag me to my target' (Located: By.cssSelector: #draggable)to 'Drop here' (Located: By.cssSelector: #droppable)
+18:28:29:524 INFO  MyLogger.info - Successfully dragged a square!
+18:28:29:527 INFO  MyLogger.info - Going to URL: https://jqueryui.com
+18:28:31:172 INFO  MyLogger.info - Clicking element 'Resizable' (Located: By.cssSelector: a[href$='resizable/'])
+18:28:32:075 INFO  MyLogger.info - Saved screenshot: screenshots/scr76938201448200
+18:28:34:469 INFO  MyLogger.info - Saved screenshot: screenshots/scr76940597475200
+18:28:34:470 INFO  MyLogger.info - Successfully resized a square!
+18:28:34:476 INFO  MyLogger.info - Going to URL: https://jqueryui.com
+18:28:35:940 INFO  MyLogger.info - Clicking element 'Selectable' (Located: By.cssSelector: a[href$='selectable/'])
+18:28:36:765 INFO  MyLogger.info - Saved screenshot: screenshots/scr76942893135500
+18:28:38:593 INFO  MyLogger.info - Saved screenshot: screenshots/scr76944716153100
+18:28:38:594 INFO  MyLogger.info - Successfully selected 5 elements!
+18:34:25:010 INFO  MyLogger.info - Info message
+18:34:25:020 WARN  MyLogger.warn - Warn message
+18:34:25:021 ERROR MyLogger.error - Error message!!!
+18:34:25:022 FATAL MyLogger.fatal - Fatal message!!!!!
+18:34:25:023 ERROR MyLogger.error - Exception!
+java.lang.RuntimeException: 
+	at LoggerTest.main(LoggerTest.java:14)
+18:35:38:146 INFO  MyLogger.info - Info message
+18:35:38:156 WARN  MyLogger.warn - Warn message
+18:35:38:157 ERROR MyLogger.error - Error message!!!
+18:35:38:157 FATAL MyLogger.fatal - Fatal message!!!!!
+18:35:38:160 ERROR MyLogger.error - Exception!
+java.lang.RuntimeException: 
+	at LoggerTest.main(LoggerTest.java:14)
+18:36:11:439 INFO  MyLogger.info - Info message
+18:36:11:447 WARN  MyLogger.warn - Warn message
+18:36:11:448 ERROR MyLogger.error - Error message!!!
+18:36:11:448 FATAL MyLogger.fatal - Fatal message!!!!!
+18:36:11:450 ERROR MyLogger.error - Exception!
+java.lang.RuntimeException: 
+	at LoggerTest.main(LoggerTest.java:14)
+18:48:16:720 INFO  MyLogger.info - Going to URL: https://jqueryui.com
+18:48:19:141 INFO  MyLogger.info - Clicking element 'Droppable' (Located: By.cssSelector: a[href$='droppable/'])
+18:48:19:949 INFO  MyLogger.info - Saved screenshot: screenshots/scr78126057876200
+18:48:22:748 INFO  MyLogger.info - Saved screenshot: screenshots/scr78128876963900
+18:48:23:197 INFO  MyLogger.info - Dragging element 'Drag me to my target' (Located: By.cssSelector: #draggable)to 'Dropped!' (Located: By.cssSelector: #droppable)
+18:48:23:197 INFO  MyLogger.info - Successfully dragged a square!
+18:48:23:201 INFO  MyLogger.info - Going to URL: https://jqueryui.com
+18:48:23:833 INFO  MyLogger.info - Clicking element 'Resizable' (Located: By.cssSelector: a[href$='resizable/'])
+18:48:24:584 INFO  MyLogger.info - Saved screenshot: screenshots/scr78130710439000
+18:48:33:292 INFO  MyLogger.info - Saved screenshot: screenshots/scr78139420323900
+18:48:33:293 INFO  MyLogger.info - Successfully resized a square!
+18:48:33:295 INFO  MyLogger.info - Going to URL: https://jqueryui.com
+18:48:33:914 INFO  MyLogger.info - Clicking element 'Selectable' (Located: By.cssSelector: a[href$='selectable/'])
+18:48:34:654 INFO  MyLogger.info - Saved screenshot: screenshots/scr78140781408600
+18:48:36:189 INFO  MyLogger.info - Saved screenshot: screenshots/scr78142317444100
+18:48:36:189 INFO  MyLogger.info - Successfully selected 5 elements!
